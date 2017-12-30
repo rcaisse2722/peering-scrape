@@ -2,6 +2,7 @@
 
 import urllib2
 from bs4 import BeautifulSoup
+from peering_entry import PeeringEntry
 
 print 'Starting script...'
 
